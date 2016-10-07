@@ -1,0 +1,45 @@
+body{
+  padding-top: 80px;
+}
+
+.btn{
+  margin-top: 10px;
+}
+
+.price{
+  font-size: 20px;
+}
+
+img{
+  height: 200px;
+  width: auto;
+}
+
+footer{
+  background-color: #696969;
+  width: 100%;
+  color: white;
+  padding: 0 0 20px 30px;
+  margin-top: 40px;
+}
+
+footer a:link,footer a{
+  color: white;
+}
+
+footer a:hover{
+  color: white;
+}
+
+.sign input{
+  width: 450px;
+}
+
+.sign a:link, .sign a{
+  color: white;
+}
+
+.sign a:hover{
+  color: white;
+  text-decoration: none;
+}
